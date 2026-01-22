@@ -29,13 +29,13 @@ A frontend **UI clone of LinkedIn** built using **HTML and CSS**. This project f
 ## 📸 Screenshots
 
 ### Home Screen
-![Questions](screenshots/question.png)
+![Questions](screenshots/home-page.png)
 
 ### Join Now Page
-![Result](screenshots/result.png)
+![Result](screenshots/join now-page.png)
 
 ### Sign In Page
-![Result](screenshots/result.png)
+![Result](screenshots/signin-page.png)
 
 
 ---
