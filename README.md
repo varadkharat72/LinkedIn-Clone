@@ -32,7 +32,7 @@ A frontend **UI clone of LinkedIn** built using **HTML and CSS**. This project f
 ![Questions](screenshots/home-page.png)
 
 ### Join Now Page
-![Result](screenshots/join now-page.png)
+![Result](screenshots/join-now-page.png)
 
 ### Sign In Page
 ![Result](screenshots/signin-page.png)
