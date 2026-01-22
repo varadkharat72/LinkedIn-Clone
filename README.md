@@ -41,7 +41,7 @@ A frontend **UI clone of LinkedIn** built using **HTML and CSS**. This project f
 ---
 
 ## 🔗 Live Demo
-*([Add GitHub Pages link here](https://varadkharat72.github.io/LinkedIn-Clone/linkedin.html))*
+*([LinkedIn Clone](https://varadkharat72.github.io/LinkedIn-Clone/linkedin.html))*
 
 ---
 
