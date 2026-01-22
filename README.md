@@ -27,7 +27,16 @@ A frontend **UI clone of LinkedIn** built using **HTML and CSS**. This project f
 ---
 
 ## 📸 Screenshots
-*(Add screenshots here)*
+
+### Home Screen
+![Questions](screenshots/question.png)
+
+### Join Now Page
+![Result](screenshots/result.png)
+
+### Sign In Page
+![Result](screenshots/result.png)
+
 
 ---
 
